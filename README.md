@@ -39,9 +39,9 @@ Je conçois et développe des applications web et mobiles scalables en appliquan
 - Modèles d'architecture et diagrammes (lorsque pertinents)
 
 ## 📫 Contact
-- Email : ton.email@example.com
-- LinkedIn : https://www.linkedin.com/in/ton-profil
-- Portfolio : https://ton-site.example.com
+- Email : falloundiaye778742285@gmail.com
+- LinkedIn : [https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/fallou-mbacke-ndiaye-218a0b30b)
+- Portfolio : [https://ton-site.example.com](https://falloumn.netlify.app/)
 
 ## 🚀 Envie de collaborer ?
 Je suis ouvert aux collaborations, revues techniques et opportunités autour d'Angular, Spring Boot, bases de données et architectures scalables. N'hésite pas à me contacter !
