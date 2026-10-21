@@ -1,4 +1,4 @@
-# Fallouu Ndiaye 👋
+# Fallouu Mbacke Ndiaye 👋
 Ingénieur logiciel • Full‑stack • Passionné par les architectures robustes et les bonnes pratiques
 
 Je conçois et développe des applications web et mobiles scalables en appliquant des principes d'ingénierie logicielle : clean code, tests, CI/CD et conception orientée domaine.
