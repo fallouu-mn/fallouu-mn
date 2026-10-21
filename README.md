@@ -4,12 +4,14 @@ Ingénieur logiciel • Full‑stack • Passionné par les architectures robust
 Je conçois et développe des applications web et mobiles scalables en appliquant des principes d'ingénierie logicielle : clean code, tests, CI/CD et conception orientée domaine.
 
 ## 🔭 Stack technique
-- Frontend : Angular, React
-- Backend : Spring Boot (Java), Node.js (Express), TypeScript
-- Bases de données : MySQL, MongoDB, Oracle
+- Frontend : Angular, React , Next js
+- Backend : Spring Boot (Java), Node.js (Express), Nest js , Laravel, TypeScript ,Python
+- Bases de données : MySQL, MongoDB, Oracle , PostgresSQL
 - Tests & Qualité : JUnit, Jest, ESLint, Prettier
+- ERP & CRM : Odoo (développement de modules, personnalisation, intégration)
 - DevOps & déploiement : Docker, GitHub Actions, Vercel / Render
 - Outils : Git, Docker, Postman, Prisma
+- Applications mobiles : Flutter
 
 ## 🧩 Domaines d'expertise
 - Conception et implémentation d'API RESTful et Microservices (Spring Boot / Node.js)
