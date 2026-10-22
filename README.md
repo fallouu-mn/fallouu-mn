@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=4B8BF4&center=true&vCenter=true&width=900&lines=Hello!+I%27m+Fallouu+Mbacke+Ndiaye;Fullstack+Developer;Angular+%7C+Spring+Boot+%7C+Node.js;Building+scalable+digital+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=4B8BF4&center=true&vCenter=true&width=950&lines=Hello!+I%27m+Fallouu+Mbacke+Ndiaye;Fullstack+Developer;Building+scalable+digital+solutions;Turning+ideas+into+real+products" alt="Typing SVG" />
 </div>
 
-<h1 align="center">😉 Fallouu Mbacke Ndiaye</h1>
+<h1 align="center">👋 Fallouu Mbacke Ndiaye</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=for-the-badge" alt="Status" />
@@ -10,53 +10,92 @@
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-FF6B6B?style=for-the-badge" alt="Focus" />
 </p>
 
-Ingénieur logiciel • Full-stack • Passionné par les architectures robustes, les solutions performantes et le développement de qualité.
+<p align="center">
+  <b>Ingénieur logiciel • Full-stack • Développeur web/mobile</b>
+</p>
 
-Je conçois et développe des applications web et mobiles évolutives en appliquant les meilleures pratiques d'ingénierie logicielle : clean code, tests, CI/CD, conception robuste et optimisation de la performance.
+Je conçois et développe des applications web et mobiles évolutives en appliquant les meilleures pratiques d’ingénierie logicielle : code propre, tests, CI/CD, architecture robuste et optimisation de la performance.
 
-## 🔧 Stack technique
+## 💻 Langues
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Français-Natif-1f7a1f?style=for-the-badge" alt="Français" />
+  <img src="https://img.shields.io/badge/Anglais-Interm%C3%A9diaire-007ACC?style=for-the-badge" alt="Anglais" />
+  <img src="https://img.shields.io/badge/Wolof-Basique-FFB000?style=for-the-badge" alt="Wolof" />
+</div>
+
+## 🎨 Frontend & Mobile
+
+<div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+## ⚙️ Backend & Base de données
+
+<div align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
 
-## 🧩 Domaines d'expertise
+## 🛠️ Outils & DevOps
 
-- Conception et implémentation d'API RESTful et microservices
-- Développement d'interfaces riches avec Angular, React et Next.js
-- Modélisation et optimisation de bases de données (MySQL, PostgreSQL, MongoDB, Oracle)
-- Architecture logicielle, patterns et refactoring
-- CI/CD, tests automatisés et revue de code
-- ERP / CRM avec Odoo et personnalisation de modules
-- Applications mobiles avec Flutter
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</div>
 
-## ⭐ Projets à découvrir
+## 🏢 ERP & Odoo
 
-- [mini-stackoverflow](https://github.com/fallouu-mn/mini-stackoverflow) — Plateforme Q&A avec React, Node.js, PostgreSQL, Prisma
-- [EasyArena](https://github.com/fallouu-mn/EasyArena) — Application TypeScript / Angular avec UI moderne et architecture modulaire
-- [faciloop-crm](https://github.com/fallouu-mn/faciloop-crm) — CRM orienté gestion et optimisation métier
-- [AppMeteo](https://github.com/fallouu-mn/AppMeteo) — Application mobile/desktop
-- [h24code-challenge](https://github.com/fallouu-mn/h24code-challenge) — Défi de programmation et snippets
+<div align="center">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+</div>
 
-## 📌 À propos de moi
+- Développement de modules Odoo
+- Personnalisation d’ERP selon les besoins métier
+- Intégration et optimisation des processus internes
+- Mise en place de solutions d’automatisation métier
 
-Je suis un développeur passionné par la création de solutions utiles, élégantes et durables. J’aime transformer des idées complexes en produits concrets, fiables et faciles à utiliser.
+## 💼 Expérience professionnelle
 
-Mon objectif est de continuer à apprendre, développer des projets de qualité et contribuer à des solutions qui ont une vraie valeur ajoutée.
+✅ Développement d’applications web dynamiques avec React, Angular et Next.js
+
+✅ Création d’applications mobiles avec Flutter
+
+✅ Création d’API REST avec Java Spring Boot, Laravel et Node.js
+
+✅ Travail avec méthodologie agile et travail d’équipe
+
+✅ Fourniture de solutions complètes et évolutives
+
+✅ Création de designs et prototypes UI/UX avec Figma
+
+## ✨ Inspiration quotidienne
+
+> “Travaille comme si tu ne devais jamais mourir, et prie comme si tu devais mourir demain.”
+>
+> — Serign Touba Mbacke
+
+> “Work as if you will never die, and pray as if you will die tomorrow.”
+>
+> — Serign Touba Mbacke
 
 ## 📫 Contact
 
