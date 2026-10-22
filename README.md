@@ -89,13 +89,16 @@ Je conçois et développe des applications web et mobiles évolutives en appliqu
 
 ## ✨ Inspiration quotidienne
 
-> “Travaille comme si tu ne devais jamais mourir, et prie comme si tu devais mourir demain.”
->
-> — Serign Touba Mbacke
-
-> “Work as if you will never die, and pray as if you will die tomorrow.”
->
-> — Serign Touba Mbacke
+<div align="center">
+  <div style="background: #0d1b2a; border: 1px solid #2b3d52; border-radius: 20px; max-width: 980px; padding: 28px 32px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
+    <p style="font-size: 24px; color: #4ce4c2; font-family: 'Fira Code', monospace; margin: 0; line-height: 1.5;">
+      “Travaille comme si tu ne devais jamais mourir, et prie comme si tu devais mourir demain.”
+    </p>
+    <p style="font-size: 18px; color: #76b7ff; margin-top: 16px; margin-bottom: 0;">
+      — Serign Touba Mbacke
+    </p>
+  </div>
+</div>
 
 ## 📫 Contact
 
