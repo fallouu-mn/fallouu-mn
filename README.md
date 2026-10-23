@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=4B8BF4&center=true&vCenter=true&width=950&lines=Hello!+I%27m+Fallouu+Mbacke+Ndiaye;Fullstack+Developer;Building+scalable+digital+solutions;Turning+ideas+into+real+products" alt="Typing SVG" />
 </div>
 
-<h1 align="center">👋 Fallouu Mbacke Ndiaye</h1>
+<h1 align="center">😉 Fallouu Mbacke Ndiaye</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=for-the-badge" alt="Status" />
